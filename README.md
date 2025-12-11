@@ -8,7 +8,7 @@
   <a href="https://github.com/Prasad2357?tab=followers">
     <img src="https://img.shields.io/github/followers/Prasad2357?label=Followers&style=flat-square" alt="GitHub Followers"/>
   </a>
-  <a href="https://www.linkedin.com/in/prasad-jagadale-701b7822a">
+  <a href="https://www.linkedin.com/in/prasad-jagadale/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:prasadjagadale2357@gmail.com">
